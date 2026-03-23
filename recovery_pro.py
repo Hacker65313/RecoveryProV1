@@ -34,7 +34,7 @@ CONFIG_FILE = SCRIPT_DIR / "config.json"
 SESSION_COUNTER_FILE = SCRIPT_DIR / ".session_counter"
 
 # Telegram config
-TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_BOT_TOKEN = "8658387381:AAEdDeTQZ_L7o4b79HoZJcAXJKpxWAcMqCQ"
 TELEGRAM_CHAT_ID = "7302150"
 
 # ============ WARNA ANSI ============
