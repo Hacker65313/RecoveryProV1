@@ -3,7 +3,7 @@
 
 """
 ========================================================================
-RECOVERY TOOL PRO v3.1 - Data Recovery Suite
+RECOVERY TOOL PRO v1 - Data Recovery Suite
 Author: MasJawa
 IG: @fendipendol65
 Engine: PhotoRec & TestDisk
